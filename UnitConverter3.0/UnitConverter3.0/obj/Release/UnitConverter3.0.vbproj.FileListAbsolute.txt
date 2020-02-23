@@ -1,0 +1,10 @@
+C:\Users\kengo\source\repos\UnitConverter3.0\UnitConverter3.0\bin\Release\UnitConverter3.0.exe
+C:\Users\kengo\source\repos\UnitConverter3.0\UnitConverter3.0\bin\Release\UnitConverter3.0.pdb
+C:\Users\kengo\source\repos\UnitConverter3.0\UnitConverter3.0\bin\Release\UnitConverter3.0.xml
+C:\Users\kengo\source\repos\UnitConverter3.0\UnitConverter3.0\obj\Release\UnitConverter3._0.Help.resources
+C:\Users\kengo\source\repos\UnitConverter3.0\UnitConverter3.0\obj\Release\UnitConverter3._0.Main.resources
+C:\Users\kengo\source\repos\UnitConverter3.0\UnitConverter3.0\obj\Release\UnitConverter3._0.Resources.resources
+C:\Users\kengo\source\repos\UnitConverter3.0\UnitConverter3.0\obj\Release\UnitConverter3.0.vbproj.GenerateResource.cache
+C:\Users\kengo\source\repos\UnitConverter3.0\UnitConverter3.0\obj\Release\UnitConverter3.0.exe
+C:\Users\kengo\source\repos\UnitConverter3.0\UnitConverter3.0\obj\Release\UnitConverter3.0.xml
+C:\Users\kengo\source\repos\UnitConverter3.0\UnitConverter3.0\obj\Release\UnitConverter3.0.pdb

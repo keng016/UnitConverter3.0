@@ -1,0 +1,54 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+UnitConverter3.0
+</name>
+</assembly>
+<members>
+<member name="T:UnitConverter3._0.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:UnitConverter3._0.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:UnitConverter3._0.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:UnitConverter3._0.Unit">
+ <summary>
+ 単位を読み取り、変換結果を算出します。
+ </summary>
+</member>
+<member name="P:UnitConverter3._0.Unit.Scale">
+ <summary>変換係数</summary>
+</member>
+<member name="P:UnitConverter3._0.Unit.UnitType">
+ <summary>単位種類</summary>
+</member>
+<member name="P:UnitConverter3._0.Unit.Text">
+ <summary>表示用文字列</summary>
+</member>
+<member name="P:UnitConverter3._0.ConverterItem.FromUnit">
+ <summary>変換元の単位と係数</summary>
+</member>
+<member name="P:UnitConverter3._0.ConverterItem.ToUnit">
+ <summary>変換先の単位と係数</summary>
+</member>
+<member name="P:UnitConverter3._0.ConverterItem.Text">
+ <summary>表示用文字列</summary>
+</member>
+<member name="M:UnitConverter3._0.ConverterItem.GetToValue(System.Double)">
+ <summary>変換値を計算する</summary>
+ <param name="fromValue">変換元の数値</param>
+ <returns>変換後の数値</returns>
+</member>
+</members>
+</doc>
